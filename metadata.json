@@ -1,0 +1,5 @@
+{
+  "name": "WaveClip Studio subtiitle 5",
+  "description": "A browser-based video clip editor featuring image composition, audio visualization, auto-generated subtitles using Gemini AI, and video rendering.",
+  "requestFramePermissions": []
+}
